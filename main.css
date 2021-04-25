@@ -23,19 +23,4 @@ a {
     width: 500px;
     opacity: 0.7;
 }
-.post{
-    opacity: 0.6;
 
-    min-width: 100%;
-
-}
-.qazxc{
-    display: flex;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-}
