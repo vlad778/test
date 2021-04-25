@@ -34,3 +34,7 @@ p {
 .tr{
     text-align: center;
 }
+.qws{
+    display: flex;
+    justify-content: center;
+}
