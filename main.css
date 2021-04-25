@@ -33,6 +33,7 @@ p {
 }
 .tr{
     text-align: center;
+    height: 50px;
 }
 .qws{
     display: flex;
